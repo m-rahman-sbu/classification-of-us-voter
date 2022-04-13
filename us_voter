@@ -7,7 +7,7 @@ library(SciViews)
 library(MASS)
 library(klaR)
 
-homevalue <- read.csv("C:/Users/moharahman/Downloads/homevalue.csv")
+homevalue <- read.csv("C:/Users/....../Downloads/homevalue.csv")
 View(homevalue)
 summary(homevalue)
 
